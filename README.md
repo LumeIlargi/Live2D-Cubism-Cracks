@@ -5,7 +5,8 @@ A collection of cracks made by me.
 ## What's included
 - Live2D Cubism 4 (stable)
 - Live2D Cubism 5.0.00, doesn't work for Live2D 5.1.00 (stable)
-- Live2D Cubism 5.1.00 (TESTED, WORKS UNTIL 5.1.02 beta1) **NEW**
+- Live2D Cubism 5.1.00 (TESTED, WORKS UNTIL 5.1.02 beta1, stable)
+- Live2D Cubism 5.1.02 (TESTED, but unstable, very new) **NEW**
 
 ## HOW TO INSTALL THEM?.
 
@@ -23,5 +24,4 @@ Voilà, ready to use, and perfectly functional.
 
 
 TO DO:
-> 5.1.02 stable figuring out.
 > Better readme
